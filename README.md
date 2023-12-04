@@ -1,5 +1,5 @@
 # Voice
-Bu uygulamad Python dilinde Google Text-to-Speech (gTTS) kütüphanesini kullanarak bir metni ses dosyasına dönüştüren bir program
+Bu uygulamada Python dilinde Google Text-to-Speech (gTTS) kütüphanesini kullanarak bir metni ses dosyasına dönüştüren bir program
 
 Eğer bilgisayarınızda python yok ise bu site üzerinden indire bilirsiniz : https://www.python.org/downloads/
 daha sonrasında cmd ekranında " pip install gtts " komutu ile gtts kütüphanesini indirdire bilirsiniz.
